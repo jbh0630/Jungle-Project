@@ -4,7 +4,7 @@ class CartsController < ApplicationController
     if cart.size == 0
       render 'empty'
     else
-      render 'cart'
+      render 'show'
     end
   end
 
