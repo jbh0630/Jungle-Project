@@ -35,7 +35,7 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 ## Final Product
 !["screenshot of Main Page"](https://github.com/jbh0630/Jungle-Project/blob/master/screenshots/1.png)
 !["screenshot of Signup Page"](https://github.com/jbh0630/Jungle-Project/blob/master/screenshots/2.png)
-!["screenshot of Login Page"]("https://github.com/jbh0630/Jungle-Project/blob/master/screenshots/3.png")
-!["screenshot of Main Page After login"]("https://github.com/jbh0630/Jungle-Project/blob/master/screenshots/4.png")
-!["screenshot of Cart Page"]("https://github.com/jbh0630/Jungle-Project/blob/master/screenshots/5.png")
-!["screenshot of Order Page"]("https://github.com/jbh0630/Jungle-Project/blob/master/screenshots/6.png")
+!["screenshot of Login Page"](https://github.com/jbh0630/Jungle-Project/blob/master/screenshots/3.png)
+!["screenshot of Main Page After login"](https://github.com/jbh0630/Jungle-Project/blob/master/screenshots/4.png)
+!["screenshot of Cart Page"](https://github.com/jbh0630/Jungle-Project/blob/master/screenshots/5.png)
+!["screenshot of Order Page"](https://github.com/jbh0630/Jungle-Project/blob/master/screenshots/6.png)
